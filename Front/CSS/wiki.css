@@ -1,3 +1,8 @@
+body{
+    background-color: #f9fbfe;
+    color: rgb(4, 2, 23);
+}
+
 nav{
     display: flex;
     flex-direction: row;
